@@ -1,0 +1,125 @@
+{
+    "questions": [
+        {
+         "question": "Which of these is made with aniseed oil?",
+         "choices":  ["Midori", "Limoncello", "Malibu", "Sambucca"],
+         "correctAnswerIdx": 3
+        },
+
+        {
+         "question": "Which capital city are you in, if you are enjoying the national dish of chelow kabab?",
+         "choices":  ["Taipei", "Tallinn", "Tehran", "Tokyo"],
+         "correctAnswerIdx": 2
+        },
+
+        {
+        "question": "Which country is the worlds largest producer of blueberries?",
+        "choices":  ["Poland", "USA", "Canada", "Ukraine"],
+        "correctAnswerIdx": 1
+        },
+
+        {
+        "question": "A belt worn around the waist and over one shoulder, typically used to carry weapons, is a WHAT?",
+        "choices":  ["Sash", "Sheat", "Baldric", "Sling"],
+        "correctAnswerIdx": 2
+        },
+
+        {
+        "question": "Fats are sometimes known as WHAT?",
+        "choices":  ["Fibroids", "Lipids", "Carbs", "Sodium"],
+        "correctAnswerIdx": 1
+         },
+
+        {
+        "question": "What is farfalle pasta shaped like?",
+        "choices":  ["Wheel", "Rings", "Flower", "Bowtie"],
+        "correctAnswerIdx": 3
+        },
+
+        {
+        "question": "Which of these herbs can be used to manufacture the drug ectasy?",
+        "choices":  ["Valerian", "Rose Hip", "Bay", "Sassafras"],
+        "correctAnswerIdx": 3
+        },
+
+        {
+        "question": "Which is a traditional Indian bread?",
+        "choices":  ["Focaccia", "Flammkuchen", "Bing", "Roti"],
+        "correctAnswerIdx": 3
+        },
+
+        {
+        "question": "Massaman Curry is a popular dish from WHICH country?",
+        "choices":  ["India", "Thailand", "Sri Lanka", "Bangladesh"],
+        "correctAnswerIdx": 1
+        },
+
+        {
+        "question": "Which of these drinks derived its name from its original ingredients of egg and malt?",
+        "choices":  ["Ribena", "Nescafe", "Bovril", "Ovaltine"],
+        "correctAnswerIdx": 3
+        },
+
+        {
+        "question": "What type of creature is the hero of Charlotte's Web?",
+        "choices":  ["Ant", "Spider", "Dragonfly", "Bee"],
+        "correctAnswerIdx": 1
+        },
+        {
+        "question": "Which word does NOT contain an alchoholic drink?",
+        "choices":  ["Prevalent", "Crumbled", "Mugging", "Obligated"],
+        "correctAnswerIdx": 3
+        },
+
+        {
+        "question": "In which century did beavers become extinct in the UK?",
+        "choices":  ["18th", "10th", "20th", "16th"],
+        "correctAnswerIdx": 3
+        },
+
+        {
+        "question": "Palermo is the capital and largest city of which Italian region?",
+        "choices":  ["Lazio", "Lombardy", "Sicily", "Tuscany"],
+        "correctAnswerIdx": 2
+        },
+
+        {
+        "question": "On which Japanese isalnd will you find Mt Fuji?",
+        "choices":  ["Hokkaido", "Kyushu", "Shikoku", "Honshu"],
+        "correctAnswerIdx": 3
+        },
+
+        {
+        "question": "'The Spy who Came In From WHAT', a novel by John LeCarre?",
+        "choices":  ["West", "Desert", "Cold", "Pub"],
+        "correctAnswerIdx": 2
+        },
+
+        {
+        "question": "Which of these famous people have not featured on US Postage stamp?",
+        "choices":  ["Bette Davis", "P Diddy", "Walt Disney", "Jack Dempsy"],
+        "correctAnswerIdx": 1
+        },
+
+        {
+        "question": "What Disney annimated film featured the character 'Woody'?",
+        "choices":  ["Aladdin", "Beauty And The Beast", "Toy Story", "Finding Nemo"],
+        "correctAnswerIdx": 2
+        },
+
+        {
+        "question": "Samantha and Darrin's daughter in 'Bewitched' was named WHAT?",
+        "choices":  ["Tahlia", "Tabitha", "Talitha", "Tracey"],
+        "correctAnswerIdx": 1
+        },
+
+        {
+        "question": "Remy was the main character in which 2007 film?",
+        "choices":  ["Avatar", "Ratatouille", "Transformers", "Hancock"],
+        "correctAnswerIdx": 1
+        }
+
+
+    
+    ]
+}

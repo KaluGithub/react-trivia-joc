@@ -1,0 +1,19 @@
+.answercontainer {
+    font-family: Verdana, sans-serif;
+    color: red;
+}
+.answerRed {
+}
+.answer {
+    width: 47.5%;
+    padding: 10px;
+    background-color: #1a1a1a;
+    font-family: Verdana, sans-serif;
+    color: #f7f2f2;
+    font-weight: 700;
+    border: 1px solid #00001a;
+    border-radius: 10px;
+    &:hover {
+        border: 1px solid blue;
+    }
+}

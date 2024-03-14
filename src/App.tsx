@@ -1,8 +1,6 @@
 import QuestionComp from './components/Questions';
 import StatBar from './components/StatBar';
 import questions from './questions.json';
-
-import questions from './questions.json';
 import { Questions } from './types';
 import { useState } from 'react';
 import App_module from './app.module.scss';
