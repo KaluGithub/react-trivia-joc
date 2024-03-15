@@ -10,7 +10,7 @@ function StatBar(props: Props) {
     return (
         <div className={StatBar_module.statcontainer}>
             <p>
-                Questions: {props.currentQuestions}/{props.totalQuestions}
+                Trivia Questions: {props.currentQuestions}/{props.totalQuestions}
             </p>
             <p>Correct: {props.correct}</p>
             <p>Incorrect: {props.incorrect}</p>

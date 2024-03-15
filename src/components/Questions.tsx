@@ -9,7 +9,7 @@ type Props = {
 
 function QuestionComp(props: Props) {
     return (
-        <div>
+        <div className={Questions_module.QuestionContainer}>
             <h3 className={Questions_module.h3Question}>{props.questions.question}</h3>
             <Answers question={props.questions} onSubmit={props.onSubmit} />
         </div>
